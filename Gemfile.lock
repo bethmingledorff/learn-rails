@@ -214,7 +214,7 @@ DEPENDENCIES
   better_errors
   coffee-rails (~> 4.1.0)
   compass-rails (~> 2.0.alpha.0)
-  figaro
+  figaro (= 1.1.1)
   gibbon
   google_drive
   high_voltage
